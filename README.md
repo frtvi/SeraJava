@@ -1,6 +1,6 @@
 <img align="right" src="[https://i.imgur.com/zrE80HY.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKdV_HYg7IHIwgokbHpIW19COKbfewivGWQ&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKdV_HYg7IHIwgokbHpIW19COKbfewivGWQ&s)">
 
-# SeraphineBot
+# 🎶🎶SeraphineBot🎶🎶
 
 
 ![Texto Alternativo](https://c.wallhere.com/photos/34/ba/Seraphine_Riot_Games_League_of_Legends-1943267.jpg!d)
