@@ -3,7 +3,7 @@
 # JMusicBot
 
 
-[![Setup](http://i.imgur.com/VvXYp5j.png)](https://jmusicbot.com/setup)
+[(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKdV_HYg7IHIwgokbHpIW19COKbfewivGWQ&s)]
 
 ## Features
   * Easy to run (just make sure Java is installed, and run!)
