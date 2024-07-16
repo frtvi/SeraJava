@@ -3,7 +3,7 @@
 # JMusicBot
 
 
-![Texto Alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKdV_HYg7IHIwgokbHpIW19COKbfewivGWQ&s)
+![Texto Alternativo](https://c.wallhere.com/photos/34/ba/Seraphine_Riot_Games_League_of_Legends-1943267.jpg!d)
 
 ## Features
   * Easy to run (just make sure Java is installed, and run!)
