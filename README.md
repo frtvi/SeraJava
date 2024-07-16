@@ -4,9 +4,10 @@
 
 
 ![Texto Alternativo](https://c.wallhere.com/photos/34/ba/Seraphine_Riot_Games_League_of_Legends-1943267.jpg!d)
+## Credits to: https://github.com/jagrosh/MusicBot  I've made this bot based on his code.
 
 ## Features
-  * Easy to run (just make sure Java is installed, and run!)
+  * Easy to run (just run the java Archive)
   * Fast loading of songs
   * No external keys needed (besides a Discord Bot token)
   * Smooth playback
