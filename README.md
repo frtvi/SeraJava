@@ -1,4 +1,4 @@
-<img align="right" src="[https://i.imgur.com/zrE80HY.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKdV_HYg7IHIwgokbHpIW19COKbfewivGWQ&s)" height="200" width="200">
+<img align="right" src="[https://i.imgur.com/zrE80HY.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKdV_HYg7IHIwgokbHpIW19COKbfewivGWQ&s)">
 
 # JMusicBot
 
