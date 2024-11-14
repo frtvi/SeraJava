@@ -5,7 +5,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/frtvi/SeraJava)](https://github.com/frtvi/SeraJava/issues)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/frtvi/SeraJava/blob/main/LICENSE)
 
-![Seraphine](https://c.wallhere.com/photos/34/ba/Seraphine_Riot_Games_League_of_Legends-1943267.jpg!d)
+<div align="center">
+  <img src="https://c.wallhere.com/photos/34/ba/Seraphine_Riot_Games_League_of_Legends-1943267.jpg!d" alt="Seraphine" width="400"/>
+</div>
 
 ## Sobre o projeto
 
