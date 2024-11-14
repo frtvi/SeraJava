@@ -7,18 +7,6 @@
 
 ![Seraphine](https://c.wallhere.com/photos/34/ba/Seraphine_Riot_Games_League_of_Legends-1943267.jpg!d)
 
-## Índice
-- [Sobre o projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
-
----
-
 ## Sobre o projeto
 
 O **SeraphineBot** é um bot de música para Discord, inspirado na personagem Seraphine de *League of Legends*. Ele foi projetado para tocar músicas de alta qualidade diretamente nos canais de voz, utilizando comandos intuitivos para gerenciamento de playlists, controle de reprodução e muito mais.
