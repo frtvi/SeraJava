@@ -29,3 +29,16 @@ O **SeraphineBot** é um bot de música para Discord, inspirado na personagem Se
 - 📜 **Gerenciamento de Playlist:** Organize suas músicas em uma fila personalizada e gerencie as faixas com comandos intuitivos.
 - ⏸️ **Controle de Reprodução:** Pause, retome, pule e pare músicas conforme necessário.
 - 📶 **Estável e Escalável:** Desenvolvido em Java para garantir desempenho e estabilidade em servidores de diversos tamanhos.
+
+## Uso
+
+O **SeraphineBot** responde a comandos prefixados, como `!play`, `!pause`, `!skip`, e muito mais. Aqui estão alguns dos principais comandos:
+
+- `!play <URL>` - Toca uma música de uma URL suportada.
+- `!pause` - Pausa a música atual.
+- `!resume` - Retoma a música pausada.
+- `!skip` - Pula para a próxima música da fila.
+- `!stop` - Para a reprodução e limpa a fila.
+- `!queue` - Exibe as músicas na fila atual.
+
+> **Nota:** Certifique-se de que o bot tenha permissões de administrador no servidor para acessar e controlar os canais de voz.
