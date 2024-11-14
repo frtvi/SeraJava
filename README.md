@@ -1,45 +1,31 @@
-<img align="right" src="[https://i.imgur.com/zrE80HY.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKdV_HYg7IHIwgokbHpIW19COKbfewivGWQ&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKdV_HYg7IHIwgokbHpIW19COKbfewivGWQ&s)">
+# SeraphineBot 🎶
+### Um bot de música para Discord, desenvolvido em Java
 
-# 🎶🎶SeraphineBot🎶🎶
+[![GitHub stars](https://img.shields.io/github/stars/frtvi/SeraJava)](https://github.com/frtvi/SeraJava/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/frtvi/SeraJava)](https://github.com/frtvi/SeraJava/issues)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/frtvi/SeraJava/blob/main/LICENSE)
 
+![Seraphine](https://c.wallhere.com/photos/34/ba/Seraphine_Riot_Games_League_of_Legends-1943267.jpg!d)
 
-![Texto Alternativo](https://c.wallhere.com/photos/34/ba/Seraphine_Riot_Games_League_of_Legends-1943267.jpg!d)
-## Credits to: https://github.com/jagrosh/MusicBot  I've made this bot based on his code.
+## Índice
+- [Sobre o projeto](#sobre-o-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Pré-requisitos](#pré-requisitos)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+- [Contato](#contato)
 
-## Features
-  * Easy to run (just run the java Archive)
-  * Fast loading of songs
-  * No external keys needed (besides a Discord Bot token)
-  * Smooth playback
-  * Clean and beautiful menus
-  * Supports many sites, including Youtube, Soundcloud, and more
-  * Supports many online radio/streams
-  * Supports local files
-  * Playlist support (both web/youtube, and local)
+---
 
-## Supported sources and formats
-SeraphineBot supports all sources and formats supported by [lavaplayer](https://github.com/sedmelluq/lavaplayer#supported-formats):
-### Sources
-  * YouTube
-  * SoundCloud
-  * Bandcamp
-  * Vimeo
-  * Twitch streams
-  * Local files
-  * HTTP URLs
-### Formats
-  * MP3
-  * FLAC
-  * WAV
-  * Matroska/WebM (AAC, Opus or Vorbis codecs)
-  * MP4/M4A (AAC codec)
-  * OGG streams (Opus, Vorbis and FLAC codecs)
-  * AAC streams
-  * Stream playlists (M3U and PLS)
+## Sobre o projeto
 
+O **SeraphineBot** é um bot de música para Discord, inspirado na personagem Seraphine de *League of Legends*. Ele foi projetado para tocar músicas de alta qualidade diretamente nos canais de voz, utilizando comandos intuitivos para gerenciamento de playlists, controle de reprodução e muito mais.
 
-# Legal Note
-This bot is created by a fan and is not affiliated with, endorsed, sponsored, or designed in any way by Riot Games, the developer of League of Legends, or any other related entity.
-## Author
+## Funcionalidades
 
-- [@frtvi](https://www.github.com/frtvi)
+- 🎵 **Reprodução de Música:** Adicione músicas de URLs suportadas e toque-as nos canais de voz do Discord.
+- 📜 **Gerenciamento de Playlist:** Organize suas músicas em uma fila personalizada e gerencie as faixas com comandos intuitivos.
+- ⏸️ **Controle de Reprodução:** Pause, retome, pule e pare músicas conforme necessário.
+- 📶 **Estável e Escalável:** Desenvolvido em Java para garantir desempenho e estabilidade em servidores de diversos tamanhos.
